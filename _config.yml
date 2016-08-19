@@ -1,4 +1,3 @@
-layout_spectrum: 0.8116219618823379
 typography_spectrum: 0.5119946820195764
 color:
   brandStrength: 0.464438792783767
@@ -11,4 +10,6 @@ color:
     - '#F0F0F0'
     - '#26646E'
     - '#239BA9'
+layout_spectrum: 0.8116219618823379
 name: 'lawson & co. '
+title: expert.
