@@ -1,3 +1,4 @@
+layout_spectrum: 0.8116219618823379
 typography_spectrum: 0.5119946820195764
 color:
   brandStrength: 0.464438792783767
@@ -5,12 +6,9 @@ color:
   saturation: 0.12884231470525265
   rhythmicContrast: 0.03674091352149844
   brandColors:
-    - '#B1B1B1'
-    - '#373737'
-    - '#F0F0F0'
-    - '#26646E'
-    - '#239BA9'
-layout_spectrum: 0.8116219618823379
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 name: 'lawson & co. '
-title: home perfected.
-description: home organization/home staging/real estate marketing
