@@ -14,5 +14,9 @@ layout_spectrum: 0.8116219618823379
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e02fe81e-4d77-4c64-9f83-38f8d1686708.png
 name: 'lawson & co. '
+navigation:
+  - name: renovate
+    id: dda02b0d-9bd9-40a7-9b6d-9bb1d7c42c88
+    type: content
 title: home perfected.
 description: home organization/home staging/real estate marketing
