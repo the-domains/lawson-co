@@ -21,5 +21,8 @@ navigation:
   - name: interior design
     id: 3f7e0fd3-fd7a-4fa8-b449-9a7d401d11b9
     type: content
+  - name: custom artwork and finishes
+    id: cbbdc64f-cb0a-48be-afb8-f4e28fbfa8b2
+    type: content
 title: home perfected.
 description: home organization/home staging/real estate marketing
